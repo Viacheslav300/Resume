@@ -1,0 +1,82 @@
+body {
+    font-family: 'EB Garamond', serif;
+} 
+.main {
+    display: flex;
+    flex-direction: column;
+
+}
+    .user{
+position: absolute;
+width: 400px;
+height: 230px;
+left: 498px;
+top: 142px;
+ }
+    /* Projects */
+    .project{
+position: absolute;
+width: 485px;
+height: 107px;
+left: 498px;
+top: 412px;
+}
+    /* Work Experience */
+
+    .work{
+position: absolute;
+width: 525px;
+height: 213px;
+left: 498px;
+top: 570px;
+    }
+ /* left */
+
+    .left{
+position: absolute;
+width: 370px;
+height: 1319px;
+left: 40px;
+top: 40px;
+background-color:#1E2939 ;
+ }
+ /* photo */
+    .photo{
+position:absolute;
+width: 370px;
+height: 354px;
+left: 40px;
+top: 80px;
+background: url(photo.jpg);
+ }
+
+/* Contacts */
+
+    .contacts{
+position: absolute;
+width: 183px;
+height: 83px;
+left: 80px;
+top: 485px;
+color: aliceblue;
+    }
+ /* Tech Skills */
+
+    .techskills{
+position: absolute;
+width: 121px;
+height: 203px;
+left: 80px;
+top: 615px;
+color: aliceblue;
+ }
+ /* Soft Skills */
+
+    .softskills {
+position: absolute;
+width: 113px;
+height: 131px;
+left: 80px;
+top: 862px;
+color: aliceblue;
+    }
